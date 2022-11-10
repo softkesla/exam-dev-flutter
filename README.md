@@ -3,8 +3,9 @@
 ## Setting Started
 1. Fork this repository as your public repo, and start from there.
 2. Start writing code on Assignments section
-2. Create `installation.md` and write instruction on how to run your application.
-3. Submit your repository url once your work is ready to review.
+3. Create `installation.md` and write instruction on how to run your application.
+4. Push changes to forked repo from No.1
+5. Submit or send your repository url once your work is ready to review.
 
 ## Assignments - Test understanding and learning skill
 Please setup flutter project and try follow steps on videos writing code 
