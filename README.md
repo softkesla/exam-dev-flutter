@@ -6,5 +6,5 @@ Pick one from below video to follow
 Please setup flutter project and try follow up step on video that you choose
 ## Run above flutter project
 Your project must be runable without any error
-## Push to change for examine
+## Push changes for examine
 Create a branch then push your changes to your created branch on this github repository so our team can examine
