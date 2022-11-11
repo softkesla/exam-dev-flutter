@@ -22,7 +22,7 @@ Please setup flutter project and try follow steps on videos writing code
 
 |Video|Resources|Notes|
 |-|-|-|
-|https://www.youtube.com/watch?v=265JFoIq7iE|Test API Endpoint - https://www.boredapi.com/api/||
+|https://www.youtube.com/watch?v=265JFoIq7iE|Test API Endpoint - https://www.boredapi.com/||
 |https://www.youtube.com/watch?v=Ep6R7U9wa0U|||
 
 
