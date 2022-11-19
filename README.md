@@ -24,7 +24,7 @@ You should can also explain more than 70% of the code you made.
 |-|-|-|
 |https://www.youtube.com/watch?v=265JFoIq7iE|Test API Endpoint - https://www.boredapi.com/documentation||
 
-3. Pick a class or component to test from No.1 or No.2 and try writing unit test to show your understanding of your code what need to test
+3. [Optional] Pick a class or component to test from No.1 or No.2 and try writing unit test to show your understanding of your code what need to test
 
 
 ## Evaluation Criteria
